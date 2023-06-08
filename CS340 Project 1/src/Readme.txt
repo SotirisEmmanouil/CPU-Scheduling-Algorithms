@@ -28,6 +28,7 @@ The creation of process object was ideal in this scenario due to the processes n
 
 This algorithm is contained within two java files: PS.java and CustomComparator.java.
 
+
 ROUND ROBIN ALGORITHM:
 
 Input: I implemented this algorithm via a hard coded list of integers which represent the burst times. 
