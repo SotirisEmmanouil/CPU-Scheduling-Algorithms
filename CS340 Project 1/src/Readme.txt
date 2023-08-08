@@ -5,7 +5,7 @@ Input: is received through a hard coded array of burst times for each process
 Methods: There are two methods which receive the burst time array as a parameter and calculates the average wait and turn around times respectively.
 The main method prints out the Gantt chart, average turn around, and average wait time.
 
-The overall code for this algorithm is implemented in one Java file with two methods that does all of the necessary computations.
+The overall code for this algorithm is implemented in one Java file with two methods that do all of the necessary computations.
 
 
 SHORTEST JOB FIRST ALGORITHM:
