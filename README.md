@@ -11,7 +11,7 @@ This project implements 4 CPU scheduling algorithms:
  </ul>
 
 Each algorithm prints a Gantt chart and calculates the average wait and turn-around times for a given CPU schedule. The source folder contains 
-additonal documentation on the code structure and implementation. A variety of different data structures and programming paradigms were used in the implementation of these
+additional documentation on the code structure and implementation. A variety of different data structures and programming paradigms were used in the implementation of these
 algorithms such as: Object Oriented Programming, Arrays, and ArrayLists. 
 
 
